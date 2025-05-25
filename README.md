@@ -1,6 +1,4 @@
-# AI-ML-resources
-
-## Reinforcement Learning
+# RL-resources
 
 ### Textbooks
 1. RL textbook - http://incompleteideas.net/book/RLbook2020.pdf
