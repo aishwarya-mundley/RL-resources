@@ -13,3 +13,11 @@
 ### Lectures
 1. Markov Decision Processes - https://www.cs.cmu.edu/~katef/DeepRLFall2018/lecture2_mdps.pdf
 2. Advanced Policy Gradient methods - https://rail.eecs.berkeley.edu/deeprlcourse-fa17/f17docs/lecture_13_advanced_pg.pdf (for math and intuition)
+
+
+# Math basics
+
+### Textbooks
+1. Linear algebra - https://www.stat.uchicago.edu/~lekheng/courses/309/books/Trefethen-Bau.pdf
+2. Linear algebra - https://students.aiu.edu/submissions/profiles/resources/onlineBook/Y5B7M4_Introduction_to_Linear_Algebra-_Fourth_Edition.pdf
+3. Probability and Stats - https://www.stat.cmu.edu/~brian/valerie/617-2022/0%20-%20books/2004%20-%20wasserman%20-%20all%20of%20statistics.pdf
